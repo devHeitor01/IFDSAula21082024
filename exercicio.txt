@@ -1,0 +1,5 @@
+var int n1, n2, M;
+exiba ("digite suas notas")
+ler
+fazer m=(n1+n2)/2
+exiba ("sua média é" m)
